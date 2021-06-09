@@ -1,0 +1,8 @@
+making some changes
+to this file
+vi
+vi master.txt
+vi master1.txt
+
+what things did I accidently wrote before I knew how it was working.
+I getting to understand what this vithing is doing.
